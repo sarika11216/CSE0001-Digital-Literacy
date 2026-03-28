@@ -1,0 +1,15 @@
+To: internshipcoordinator@gmail.com
+From: student@vitbhopal.ac.in
+
+Subject: Expression of Interest – Summer Internship Opportunity at Google
+
+Dear Sir,
+
+I’m a second-year CSE student at VIT Bhopal, and I’m reaching out to apply for the Summer 2026 Software Engineering Internship.
+My recent work has been focused on Python and Machine Learning—specifically on the challenge of making standard algorithms more efficient within an AI context. I’ve always been more interested in the engineering side of the field than the pure theory, particularly when it comes to the infrastructure required to scale systems like Gemini. To me, Google is the benchmark for how math actually hits hardware at a global scale, and that’s the kind of environment I’m looking to contribute to.
+With a technical foundation rooted in C++ and Data Structures, I’ve used my recent projects to bridge the gap between backend logic and applied AI models.
+I’ve attached my resume for your review. Thank you for your time and for considering my application for the summer cohort.
+Regards,
+Student
+25BXX20XX
+VIT Bhopal
