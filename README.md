@@ -24,16 +24,13 @@ Drafted professional emails and created a social media do’s and don’ts check
 ### 🔹 Task 5: Cybercrime Awareness
 Developed a case study on phishing and created a prevention checklist for online safety.
 
----
 
 # Useful Links
 
-- GitHub Profile: [Paste your GitHub link]
-- LinkedIn Profile: [Paste your LinkedIn link]
-- Kaggle Profile: [Paste your Kaggle link]
-- Google Form: [Paste your form link]
+- LinkedIn Profile: https://www.linkedin.com/in/sarika-tripathi-584149364/
+- Kaggle Profile: https://www.kaggle.com/sarikatripathi
+- Google Form: https://forms.gle/gWUJNoVuSJ5YE74s6
 
----
 
 #Repository Structure
 
